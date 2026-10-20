@@ -24,7 +24,7 @@ footer{text-align:center;padding:30px;background:#1a1a1a;color:#777;margin-top:4
 <header>
 <div>
 <img src="https://ui-avatars.com/api/?name=Lyndelou+Lapad&background=00ff88&color=000&size=200" alt="Profile" class="profile-img" id="profilePic">
-<h1>Hi, I'm <span>Lyndelou Lapad</span></h1>
+<h1>Hi, I'm <span>Lynde Lou D. Lapad</span></h1>
 <p class="tagline">Designer | Developer | Creative Mind</p>
 <a href="#work" class="btn">View My Work</a>
 <a href="mailto:lyndeloulapad@gmail.com" class="btn" style="background:transparent;color:#fff;border:1px solid #fff">Contact Me</a>
@@ -34,7 +34,7 @@ footer{text-align:center;padding:30px;background:#1a1a1a;color:#777;margin-top:4
 <section id="about">
 <h2>About Me</h2>
 <div class="card">
-<p>I'm a passionate designer from Cagayan de Oro, focused on creating clean, modern, and user-friendly digital experiences. I love turning ideas into beautiful designs that work.</p>
+<p>I'm a passionate designer from Quezon, Bukidnon focuse on creating clean, modern, and user-friendly digital experiences. I love turning ideas into beautiful designs that work.</p>
 </div>
 </section>
 
